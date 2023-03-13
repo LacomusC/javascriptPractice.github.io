@@ -61,7 +61,8 @@ button {
 
 #clickedNum,
 #randomNum,
-#result {
+#result,
+#guessNum {
   font-size: 20px;
   font-weight: 700;
 }
